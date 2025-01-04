@@ -14,11 +14,9 @@ public:
 
         for(int i=0;i<n;i++){
             if(seen.find(s[i])==seen.end()){
-                j=i+1;
                 lastIndex=mp[s[i]];
-                while(j<lastIndex){
+                for(int j=i+1;j<lastIndex;j++){
                     unique.insert(s[j]);
-                    j++;
                 }
                 count+=unique.size();
                 unique.clear();
