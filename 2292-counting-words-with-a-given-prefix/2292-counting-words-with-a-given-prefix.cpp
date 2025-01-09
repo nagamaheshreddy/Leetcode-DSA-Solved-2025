@@ -10,7 +10,6 @@ public:
         return i==prefix.size();
     }
     int prefixCount(vector<string>& words, string pref) {
-        // sort(words.begin(),words.end());
         int count=0;
 
         for(int i=0;i<words.size();i++){
