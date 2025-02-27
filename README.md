@@ -17,6 +17,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [1524-string-matching-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1524-string-matching-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -269,4 +270,5 @@ A collection of LeetCode questions which I have been solving from 2025!
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
