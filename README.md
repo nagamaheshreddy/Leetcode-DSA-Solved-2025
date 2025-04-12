@@ -117,6 +117,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3227-find-missing-and-repeated-values](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3548-find-the-count-of-good-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
@@ -291,6 +292,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3227-find-missing-and-repeated-values) |
+| [3548-find-the-count-of-good-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3548-find-the-count-of-good-integers) |
 ## Data Stream
 |  |
 | ------- |
@@ -356,4 +358,9 @@ A collection of LeetCode questions which I have been solving from 2025!
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3548-find-the-count-of-good-integers) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
