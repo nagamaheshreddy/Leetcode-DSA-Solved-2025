@@ -28,6 +28,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [1927-maximum-ascending-subarray-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2358-number-of-ways-to-split-array) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 ## Math
 |  |
@@ -322,6 +324,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 |  |
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2690-house-robber-iv) |
@@ -370,4 +374,16 @@ A collection of LeetCode questions which I have been solving from 2025!
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
