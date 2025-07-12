@@ -10,7 +10,7 @@ public:
         }
 
         // For base cases
-        if (n == 3 || n == 2) {
+        if (n == 3 || n == 4) {
             return {2, 2};
         }
 
