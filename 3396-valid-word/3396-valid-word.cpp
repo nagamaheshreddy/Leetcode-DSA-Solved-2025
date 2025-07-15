@@ -15,7 +15,7 @@ public:
                     consonants++;
                 }
             } else if (!isdigit(c)) {
-                return false; // invalid character
+                return false; 
             }
         }
 
