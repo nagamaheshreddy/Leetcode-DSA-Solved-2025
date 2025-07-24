@@ -41,6 +41,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2292-counting-words-with-a-given-prefix](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2358-number-of-ways-to-split-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2448-count-number-of-bad-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2308-divide-array-into-equal-pairs) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [1396-count-servers-that-communicate](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
