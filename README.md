@@ -5,6 +5,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0416-partition-equal-subset-sum) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
