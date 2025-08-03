@@ -37,6 +37,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2079-delete-duplicate-folders-in-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2358-number-of-ways-to-split-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | ------- |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
