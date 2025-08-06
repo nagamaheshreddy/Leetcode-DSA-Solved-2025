@@ -86,6 +86,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
 ## String
 |  |
 | ------- |
@@ -357,6 +358,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
 |  |
 | ------- |
@@ -450,6 +452,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2665-minimum-time-to-repair-cars](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2690-house-robber-iv) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
 |  |
 | ------- |
@@ -482,6 +485,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
 | ------- |
