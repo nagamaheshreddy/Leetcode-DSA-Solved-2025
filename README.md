@@ -378,6 +378,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0342-power-of-four](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0826-soup-servings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0900-reordered-power-of-2) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0826-soup-servings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1170-shortest-common-supersequence) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -521,4 +524,5 @@ A collection of LeetCode questions which I have been solving from 2025!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
