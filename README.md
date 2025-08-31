@@ -5,6 +5,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0407-trapping-rain-water-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0854-making-a-large-island) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
