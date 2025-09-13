@@ -1,37 +1,25 @@
 class Solution {
 public:
     bool isVowel(char ch){
-        return (ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u');
+        static const string vowels = "aeiou";
+        return vowels.find(ch) != string::npos;
     }
     int maxFreqSum(string s) {
-        unordered_map<char,int>mp;
-        for(auto ch: s){
-            mp[ch]++;
+        unordered_map<char, int> freqMap;
+        for (char ch : s) {
+            freqMap[ch]++;
         }
-        vector<int>vowels;
-        vector<int>consonants;
-        char ch;
-        int freq;
 
-        for(auto pair:mp){
-            ch=pair.first;
-            freq=pair.second;
+        int maxVowelFreq = 0, maxConsonantFreq = 0;
 
-            if(isVowel(ch)){
-                vowels.push_back(freq);
-            }else{
-                consonants.push_back(freq);
+        for (const auto& [ch, freq] : freqMap) {
+            if (isVowel(ch)) {
+                maxVowelFreq = max(maxVowelFreq, freq);
+            } else {
+                maxConsonantFreq = max(maxConsonantFreq, freq);
             }
         }
-        sort(vowels.begin(),vowels.end(),greater<int>());
-        sort(consonants.begin(),consonants.end(),greater<int>());
 
-        int ans=0;
-        if(vowels.size()>0)ans+=vowels[0];
-        if(consonants.size()>0)ans+=consonants[0];
-        return ans;
-        
-
-
+        return maxVowelFreq + maxConsonantFreq;
     }
 };
