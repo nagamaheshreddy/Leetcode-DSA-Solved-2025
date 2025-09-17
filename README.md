@@ -58,6 +58,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2358-number-of-ways-to-split-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2465-shifting-letters-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2465-shifting-letters-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2079-delete-duplicate-folders-in-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2308-divide-array-into-equal-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2681-put-marbles-in-bags](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2681-put-marbles-in-bags) |
@@ -401,11 +405,13 @@ A collection of LeetCode questions which I have been solving from 2025!
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2280-count-good-triplets-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
