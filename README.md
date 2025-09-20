@@ -106,6 +106,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3827-implement-router) |
 ## String
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3447-clear-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3617-find-the-original-typed-string-i) |
+| [3797-design-spreadsheet](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -346,6 +349,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3797-design-spreadsheet) |
 ## Shortest Path
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2429-design-a-food-rating-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
