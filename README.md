@@ -5,6 +5,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0118-pascals-triangle) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0768-partition-labels) |
 | [1018-largest-perimeter-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1018-largest-perimeter-triangle) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2265-partition-array-according-to-given-pivot) |
