@@ -11,8 +11,8 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
-        set<int>s;
-        for(int num:nums)s.insert(num);
+        unordered_set<int>s;
+        for(int &num:nums)s.insert(num);
 
         ListNode* prev=new ListNode(-1);
         ListNode* dummy=prev;
