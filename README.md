@@ -163,6 +163,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3396-valid-word](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3617-find-the-original-typed-string-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3617-find-the-original-typed-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3797-design-spreadsheet) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2478-longest-nice-subarray](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3483-alternating-groups-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2174-next-greater-numerically-balanced-number](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2998-count-symmetric-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2998-count-symmetric-integers) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
