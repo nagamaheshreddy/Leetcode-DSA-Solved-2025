@@ -10,7 +10,7 @@ public:
         }
         
         if (pos.size() % 2 or pos.size() == 0) {
-            return 1;
+            return 0;
         }
         
         long res = 1;
