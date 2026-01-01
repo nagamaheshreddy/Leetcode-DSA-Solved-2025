@@ -8,6 +8,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0011-container-with-most-water](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0407-trapping-rain-water-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0342-power-of-four) |
