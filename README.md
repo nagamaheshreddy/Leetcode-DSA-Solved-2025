@@ -152,6 +152,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3643-flip-square-submatrix-vertically](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3606-coupon-code-validator](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
 | ------- |
@@ -740,6 +742,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Two Pointers
@@ -797,6 +800,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [3454-separate-squares-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3827-implement-router) |
