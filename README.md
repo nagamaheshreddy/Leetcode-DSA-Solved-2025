@@ -182,6 +182,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [1170-shortest-common-supersequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1502-construct-k-palindrome-strings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1502-construct-k-palindrome-strings) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0934-bitwise-ors-of-subarrays](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1170-shortest-common-supersequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
