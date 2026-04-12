@@ -1,7 +1,7 @@
 class Solution {
 public:
     int cal(int a, int b) {
-        int ax = a / 6, ay = a % 6, bx = b / 6, by = b % 6;
+        int ax = a / 3, ay = a % 6, bx = b / 6, by = b % 6;
         return abs(a / 6 - b / 6) + abs(a % 6 - b % 6);
     }
 
