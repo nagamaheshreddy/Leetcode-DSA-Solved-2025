@@ -179,6 +179,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0657-robot-return-to-origin](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0796-rotate-string) |
 | [0952-word-subsets](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1006-vowel-spellchecker) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3309-count-prefix-and-suffix-pairs-i) |
