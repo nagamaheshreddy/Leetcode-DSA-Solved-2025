@@ -17,6 +17,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0407-trapping-rain-water-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0679-24-game) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0342-power-of-four](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0788-rotated-digits) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0799-champagne-tower) |
@@ -886,6 +889,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [0231-power-of-two](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0486-predict-the-winner) |
 | [2050-count-good-numbers](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
@@ -959,4 +963,8 @@ A collection of LeetCode questions which I have been solving from 2025!
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2573-find-the-string-with-lcp) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
