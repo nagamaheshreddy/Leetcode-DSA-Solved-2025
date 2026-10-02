@@ -187,6 +187,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0657-robot-return-to-origin) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0037-sudoku-solver) |
 | [0077-combinations](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0077-combinations) |
 | [0679-24-game](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0679-24-game) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0368-largest-divisible-subset) |
@@ -1003,5 +1006,6 @@ A collection of LeetCode questions which I have been solving from 2025!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
