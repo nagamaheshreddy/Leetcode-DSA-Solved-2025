@@ -127,6 +127,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2533-bitwise-xor-of-all-pairings](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2792-neighboring-bitwise-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions which I have been solving from 2025!
 | [2573-find-the-string-with-lcp](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2573-find-the-string-with-lcp) |
 | [2681-put-marbles-in-bags](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2689-rearranging-fruits) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nagamaheshreddy/LEETCODE-DSA-SOLUTIONS-2025/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
